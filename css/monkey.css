@@ -1,5 +1,6 @@
 html {
   background: url(../images/spice-girls.jpg) no-repeat top left;
+  display: none;
 }
 
 #monkey {
@@ -9,4 +10,3 @@ html {
 }
 
 /* Write your solution here */
-
